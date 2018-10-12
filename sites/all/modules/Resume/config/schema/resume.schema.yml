@@ -1,0 +1,6 @@
+resume.settings:
+  type: config_object
+  mapping:
+    type: string
+    label: 'Hello World!'
+    

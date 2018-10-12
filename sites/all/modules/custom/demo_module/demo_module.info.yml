@@ -1,0 +1,6 @@
+name: Demo Module
+type: Module
+Description: Sample Custom Module
+package: Custom
+version: 1.0
+core: 8.x
